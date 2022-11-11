@@ -1,0 +1,54 @@
+[
+{
+  "_id": {
+    "$oid": "636c2dd34c5fd0256a27d210"
+  },
+  "uid": 129875,
+  "vendor": "Vendor X",
+  "dateCreated": "2022-11-10",
+  "status": "Online",
+  "gateway": {
+    "$oid": "636c212d4c5fd0256a27d1fd"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "636cfe90b64b163a00888644"
+  },
+  "uid": 587878,
+  "vendor": "Vendor Y",
+  "dateCreated": "2022-11-10",
+  "status": "Online",
+  "gateway": {
+    "$oid": "636cf5c84b4147442a5d58c2"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "636d00aeb64b163a00888665"
+  },
+  "uid": 587811,
+  "vendor": "Vendor Z",
+  "dateCreated": "2022-10-31",
+  "status": "Online",
+  "gateway": {
+    "$oid": "636cf5c84b4147442a5d58c2"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "636d00c0b64b163a00888669"
+  },
+  "uid": 587866,
+  "vendor": "Vendor Y",
+  "dateCreated": "2022-11-07",
+  "status": "Online",
+  "gateway": {
+    "$oid": "636cf5c84b4147442a5d58c2"
+  },
+  "__v": 0
+}
+]

@@ -1,0 +1,11 @@
+.system-header {
+  padding: 2rem;
+  background-color: lightgray;
+  border-radius: 5px;
+  text-align: center;
+}
+.no-items-found {
+  border-radius: 5px;
+  border: 1px solid lightgray;
+  padding: 10rem;
+}

@@ -1,0 +1,13 @@
+.simple-grid {
+  padding: 1rem;
+}
+.simple-grid .row {
+  padding: 0.5rem;
+  border: 1px solid lightgrey;
+  border-radius: 5px;
+  margin-top: 0.25rem;
+}
+.simple-grid .header {
+  background-color: lightgrey;
+  font-weight: bold;
+}

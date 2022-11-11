@@ -1,0 +1,22 @@
+[
+{
+  "_id": {
+    "$oid": "636c212d4c5fd0256a27d1fd"
+  },
+  "serialNo": "12KJ455SA",
+  "name": "Gateway1",
+  "ipv4Address": "192.0.2.235",
+  "devices": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "636cf5c84b4147442a5d58c2"
+  },
+  "serialNo": "AS12KJ455",
+  "name": "Gateway2",
+  "ipv4Address": "192.0.2.236",
+  "devices": [],
+  "__v": 0
+}
+]
